@@ -1,6 +1,6 @@
-module github.com/libdns/tencentcloud
+module github.com/avkiller/tcloudlibdns
 
-go 1.18
+go 1.23
 
 require github.com/libdns/libdns v0.2.2
 
